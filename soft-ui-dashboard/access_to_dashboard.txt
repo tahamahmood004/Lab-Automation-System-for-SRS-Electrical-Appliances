@@ -1,0 +1,2 @@
+email : admin@dashboard.com
+password : Admin123
